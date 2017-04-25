@@ -1,0 +1,15 @@
+{
+  "name": "service-provider-core",
+  "version": "0.0.1",
+  "description": "Service Provider Core - Central place of your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Pegorari <rafapegorari@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "debug": "^2.6.3"
+  }
+}
